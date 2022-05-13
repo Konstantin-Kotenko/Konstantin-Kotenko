@@ -28,3 +28,13 @@
 <img align="left" alt="Figma" width="32px" src="https://avatars.githubusercontent.com/u/5155369?s=200&v=4" />
 
 <img alt="Handlebars" width="32px" src="/img/handlebars.svg" />
+
+#### Studying:
+
+<img align="left" alt="React" width="32px" src="/img/react.svg" />
+
+<img align="left" alt="Node.js" width="32px" src="/img/nodejs.svg" />
+
+<img align="left" alt="Typescript" width="32px" src="/img/typescript.svg" />
+
+<img  alt="Webpack" width="32px" src="/img/webpack.svg" />
