@@ -25,3 +25,4 @@
 
 <img alt="Figma" width="32px" src="https://avatars.githubusercontent.com/u/5155369?s=200&v=4" />
 
+<img alt="Handlebars" width="32px" src="/img/handlebars.svg" />
