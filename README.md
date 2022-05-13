@@ -27,7 +27,7 @@
 
 <img align="left" alt="Figma" width="32px" src="https://avatars.githubusercontent.com/u/5155369?s=200&v=4" />
 
-<img align="left" alt="Lodash" width="32px" src="/img/lodash.svg" />
+<img align="left" alt="Lodash" width="50px" src="/img/lodash.svg" />
 
 <img alt="Handlebars" width="32px" src="/img/handlebars.svg" />
 
