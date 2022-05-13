@@ -29,7 +29,7 @@
 
 <img alt="Handlebars" width="32px" src="/img/handlebars.svg" />
 
-#### Studying:
+### Studying:
 
 <img align="left" alt="React" width="32px" src="/img/react.svg" />
 
