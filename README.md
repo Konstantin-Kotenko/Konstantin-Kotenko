@@ -29,11 +29,11 @@
 
 <img alt="Handlebars" width="32px" src="/img/handlebars.svg" />
 
-### Studying:
-
 <img align="left" alt="React" width="32px" src="/img/react.svg" />
 
 <img align="left" alt="Node.js" width="32px" src="/img/nodejs.svg" />
+
+### Studying:
 
 <img align="left" alt="Typescript" width="32px" src="/img/typescript.svg" />
 
