@@ -29,9 +29,9 @@
 
 <img alt="Handlebars" width="32px" src="/img/handlebars.svg" />
 
-<img align="left" alt="React" width="32px" src="/img/react.svg" />
+<img  alt="React" width="32px" src="/img/react.svg" />
 
-<img align="left" alt="Node.js" width="32px" src="/img/nodejs.svg" />
+<img  alt="Node.js" width="32px" src="/img/nodejs.svg" />
 
 
 ### Studying:
