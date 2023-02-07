@@ -11,6 +11,10 @@
 
 <img align="left" alt="JavaScript" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 
+<img align="left" alt="React" width="32px" src="/img/react.svg" />
+
+<img align="left" alt="Node.js" width="32px" src="/img/nodejs.svg" />
+
 <img align="left" alt="HTML5" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 
 <img align="left" alt="CSS3" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -26,10 +30,6 @@
 <img align="left" alt="Photoshop" width="32px" src="/img/photoshop.svg" />
 
 <img align="left" alt="Figma" width="32px" src="https://avatars.githubusercontent.com/u/5155369?s=200&v=4" />
-
-<img align="left" alt="React" width="32px" src="/img/react.svg" />
-
-<img align="left" alt="Node.js" width="32px" src="/img/nodejs.svg" />
 
 <img alt="Handlebars" width="32px" src="/img/handlebars.svg" />
 
